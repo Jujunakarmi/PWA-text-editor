@@ -23,7 +23,8 @@ J.A.T.E is a web text editor where you can create a notes or even code snippets.
 * [Contact](#contact)
 
 ## Installation
-  User can view and use the application through the browser by visiting at the deployed application in Render at
+  User can view and use the application through the browser by visiting at the deployed application in Render
+  https://pwa-text-editor-2-x89n.onrender.com/
 
   1. Open the deployed app in the browser.
   2. Click the `Install` button in the top left corner to download.
